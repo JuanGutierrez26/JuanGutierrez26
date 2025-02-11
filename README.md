@@ -8,7 +8,7 @@ Soy estudiante de Desarrollo de Software con 2 años y medio de experiencia en f
 
 * 🌍  Localizado en Perú
 * ✉️  Puedes contactarme con el correo [juanjosegrtrabajos@gmail.com](mailto:juanjosegrtrabajos@gmail.com)
-* 🧠  Estoy estudiando inglés (nivel B1), así como JavaScript y Python.
+* 🧠  Estoy estudiando inglés (nivel B1), así como estoy mejorando mis conocimiento en JavaScript y Python .
 
 ### Habilidades
 
